@@ -1,4 +1,6 @@
-pragma solidity ^0.4.2;
+
+// SPDX-License-Identifier: GPL-3.0
+pragma solidity ^0.8.17;
 
 contract RoundToken {
     string  public name = "ROUND Token";
